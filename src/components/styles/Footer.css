@@ -1,0 +1,24 @@
+.bcard__footer{
+    height: 6.5rem;
+    background-color: var(--bcard-bg);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 0px 0px 10px 10px;
+}
+
+.bcard__footer-icon{
+    background-color: #918E9B;
+    margin-right: 2.4rem;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.bcard__footer-icon svg{
+    font-size: 2.7rem;
+    padding: 0.2em;
+}
+
+.bcard__footer-icon:last-of-type{
+    margin-right: 0;
+}

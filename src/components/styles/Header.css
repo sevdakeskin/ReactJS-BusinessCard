@@ -1,0 +1,5 @@
+.bcard__profile-img{
+    width: var(--bcard-width);
+    height: 400px;
+    border-radius: 10px 10px 0px 0px;
+}
